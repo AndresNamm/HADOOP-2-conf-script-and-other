@@ -1,0 +1,13 @@
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student14-x2:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
+
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student14-x1:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
+
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student13-x2:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
+
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student2-x2:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
+
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student2-x1:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
+
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student1-x2:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
+
+scp /opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf student1-x2:/opt/spark-2.1.0-bin-hadoop2.6/conf/spark-defaults.conf 
