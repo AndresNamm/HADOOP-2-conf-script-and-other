@@ -38,5 +38,9 @@
 	
 
 <!-- Site specific YARN configuration properties-->
-	
+	<property>
+		<name>yarn.nodemanager.resource.memory-mb</name>
+		<value>7096</value>
+	</property>
+
 </configuration>
