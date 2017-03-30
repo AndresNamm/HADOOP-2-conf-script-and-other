@@ -19,10 +19,10 @@
 <configuration>
 	<property>
 		<name>dfs.replication</name>
-		<value>5</value>
+		<value>7</value>
 	</property>
 	<property>
 		<name>dfs.blocksize</name>
-		<value>256m</value>
+		<value>128m</value>
 	</property>
 </configuration>
