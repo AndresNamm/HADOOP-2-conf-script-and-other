@@ -26,7 +26,6 @@ export JAVA_HOME=/usr/lib/jvm/java-8-oracle
 export HADOOP_HOME=/opt/hadoop-2.6.0
 export HADOOP_CONF_DIR=/opt/hadoop-2.6.0/etc/hadoop
 
-
 # The jsvc implementation to use. Jsvc is required to run secure datanodes
 # that bind to privileged ports to provide authentication of data transfer
 # protocol.  Jsvc is not required if SASL is configured for authentication of

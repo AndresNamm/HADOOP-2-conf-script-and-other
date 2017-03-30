@@ -23,10 +23,36 @@
 	</property>
 	<property>
 		<name>mapreduce.map.memory.mb</name>
-		<value>200</value>
+		<value>768</value>
 	</property>
 	<property>
 		<name>mapreduce.reduce.memory.mb</name>
-		<value>300</value>
+		<value>1024</value>
 	</property>
+	<property>
+		<name>mapreduce.job.reduces</name>
+		<value>3</value>
+	</property>
+
+        <property>
+                <name>mapreduce.task.io.sort.mb</name>
+                <value>350</value>
+        </property>
+
+	<property>
+                <name>mapreduce.reduce.shuffle.parallelcopes</name>
+                <value>8</value>
+        </property>
+
+        <property>
+                <name>mapreduce.map.java.opts</name>
+                <value>-Xmx550m</value>
+        </property>
+
+        <property>
+                <name>mapreduce.reduce.java.opts</name>
+                <value>-Xmx650m</value>
+        </property>
+
+
 </configuration>

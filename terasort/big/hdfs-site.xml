@@ -16,22 +16,13 @@
 
 <!-- Put site-specific property overrides in this file. -->
 
-
-
 <configuration>
-
-	<property>
-  		<name>dfs.hosts.exclude</name>
-		<value>/opt/hadoop-2.6.0/etc/hadoop/dfs.exclude</value>
-		<final>true</final>
-	</property>
-
 	<property>
 		<name>dfs.replication</name>
-		<value>3</value>
+		<value>5</value>
 	</property>
 	<property>
 		<name>dfs.blocksize</name>
-		<value>64m</value>
+		<value>256m</value>
 	</property>
 </configuration>
